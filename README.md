@@ -9,6 +9,8 @@
 
 [![balkishan69's GitHub | Languages Over Time](https://stats.quine.sh/balkishan69/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=balkishan69)
 
+[![balkishan69's Stack Overflow | Stats](https://stats.quine.sh/balkishan69/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=balkishan69)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balkishan69&label=Profile%20views&color=0e75b6&style=flat" alt="balkishan69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balkishan69" alt="balkishan69" /></a> </p>
