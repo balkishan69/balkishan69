@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **javascript,node.js,react,etc.**
 
-- 📫 How to reach me **balkishanmandal30@gmail.com**
+- 📫 How to reach me **11balkishan11@gmail.com**
 
 - ⚡ Fun fact **I think I am charming :)**
 
